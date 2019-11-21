@@ -29,3 +29,5 @@ More details can be found in the Medium article [Using AI to Predict Droughts, F
 
 2. If you can't use a local GPU, you can use cloud platforms such as AWS, GCP, and FloydHub to train your networks on a GPU.[The project can be oppend also using  Google Colab](https://colab.research.google.com/) or using  [Kaggle Kernels](https://www.kaggle.com)
 
+3. All the steps can be found in the [Jupyter Notebook](https://github.com/NahieliV/Jetson/blob/master/Finding-the-Nexus/Omdena-UNHCR-Challenge-master/Omdena_UNHCR_Challenge%20WHI%20and%20Displacements%20from%20Somanlia.ipynb) including datdaset split used for training and testing and analysis in datail 
+
